@@ -61,7 +61,7 @@ def add_characters
    # Code your solution here:
 
 def update_status(character_status)
-  character_status = "dead"
+  
 end 
 
 
